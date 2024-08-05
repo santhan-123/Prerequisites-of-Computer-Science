@@ -37,4 +37,36 @@ It is an essential component of computing systems, enabling hardware to function
        - Chrome
        - Firefox
 
-3. **Media Players and Games**
+## Additional Software Types
+
+3. **Development Software**
+
+   - **IDEs and Compilers**: Tools used for developing software applications.
+
+     - **Examples**: 
+       - Visual Studio Code
+       - Eclipse
+       - GCC Compiler
+
+4. **Entertainment Software**
+
+   - **Games and Media Players**: Applications used for gaming and media playback.
+
+     - **Examples**: 
+       - VLC Media Player
+       - Spotify
+       - Steam
+
+
+# What is Hardware?
+
+Hardware is the physical components of computer and makes the computer function.
+
+## Types of Hardware
+
+- **InternalHardware** -  motherboard, hard drives, and RAM etc..
+
+-**External Hardware** - monitor, keyboard, printer, and scanner etc..
+
+   
+   
