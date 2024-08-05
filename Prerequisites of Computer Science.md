@@ -66,7 +66,7 @@ Hardware is the physical components of computer and makes the computer function.
 
 - **InternalHardware** -  motherboard, hard drives, and RAM etc..
 
--**External Hardware** - monitor, keyboard, printer, and scanner etc..
+- **External Hardware** - monitor, keyboard, printer, and scanner etc..
 
    
    
